@@ -1,0 +1,24 @@
+{
+  "name": "chata",
+  "version": "0.0.1",
+  "description": "JS Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfs8891/chata.git"
+  },
+  "keywords": [
+    "Chat",
+    "JS",
+    "LBD"
+  ],
+  "author": "Miguel Fernández Suárez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfs8891/chata/issues"
+  },
+  "homepage": "https://github.com/mfs8891/chata#readme"
+}
